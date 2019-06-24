@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <module>
-	<name>daaaaadvatvalidation</name>
+	<name>js-vat</name>
 	<displayName><![CDATA[EU VAT Number Validation]]></displayName>
 	<version><![CDATA[1.0.0]]></version>
 	<description><![CDATA[This module validates VAT Number of EU customers using a javascript algorithm.]]></description>

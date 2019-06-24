@@ -34,7 +34,7 @@ class Jsvat extends Module
 
     public function __construct()
     {
-        $this->name = 'jsvat';
+        $this->name = 'js-vat';
         $this->tab = 'administration';
         $this->version = '1.0.0';
         $this->author = 'David Georges';

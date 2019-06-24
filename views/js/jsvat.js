@@ -133,7 +133,7 @@ Version       V1.24
 Version       V1.25
               29th July 2014
               Code improvements
-              Thanks to Sébastien Boelpaep and Nate Kerkhofs
+              Thanks to SÃ©bastien Boelpaep and Nate Kerkhofs
               
 Version       V1.26
               4th May 2015
